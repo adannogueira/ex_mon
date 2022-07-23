@@ -1,6 +1,8 @@
 # ExMon
 
-**TODO: Add description**
+**Elixir First Time Experience**
+
+This is my first hands on with a functional language, the project is a small game, exploring some core concepts of functional programming along with testing.
 
 ## Installation
 
